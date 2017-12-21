@@ -9,4 +9,4 @@ $ npm install
 $ npm start
 ```
 
-*[Demo](https://cukyawzintun.github.io/roguelike-dungeon-crawler/)*
+*[Demo](https://kyawzintun.github.io/roguelike-dungeon-crawler/)*

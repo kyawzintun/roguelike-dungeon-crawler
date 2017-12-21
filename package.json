@@ -1,6 +1,6 @@
 {
+  "homepage": "https://kyawzintun.github.io/roguelike-dungeon-crawler",
   "name": "roguelike-dungeon-crawler",
-  "homepage": "https://cukyawzintun.github.io/roguelike-dungeon-crawler",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
